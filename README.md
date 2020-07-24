@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=BLzbqAIyVwc
 https://www.youtube.com/watch?v=a2g9pDleGQk
 
 https://pythonise.com/series/learning-flask/deploy-a-flask-app-nginx-uwsgi-virtual-machine
+
+https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html
