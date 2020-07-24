@@ -22,3 +22,5 @@ https://www.techatbloomberg.com/blog/configuring-uwsgi-production-deployment/
 https://uwsgi-docs.readthedocs.io/en/latest/ThingsToKnow.html
 
 https://www.youtube.com/watch?v=p6R1h2Nn468
+
+https://www.youtube.com/watch?v=K7g4D4sdBEQ
