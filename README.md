@@ -18,3 +18,5 @@ https://pythonise.com/series/learning-flask/deploy-a-flask-app-nginx-uwsgi-virtu
 https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html
 
 https://www.techatbloomberg.com/blog/configuring-uwsgi-production-deployment/
+
+https://uwsgi-docs.readthedocs.io/en/latest/ThingsToKnow.html
