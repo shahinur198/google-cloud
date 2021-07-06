@@ -30,7 +30,9 @@ https://www.youtube.com/watch?v=K7g4D4sdBEQ
    21  sudo rm -r covid_unit/
    23  git clone https://github.com/shahinur198/covid_unit.git
    
-   26  unzip CovidUnit.zip 
+    mv covid_care_web.zip ..
+   
+   26  unzip covid_care_web.zip 
    27  sudo apt-get install unzip
    28  unzip CovidUnit.zip
    32  sudo python3 server.py 
