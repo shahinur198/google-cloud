@@ -94,4 +94,10 @@ s-enabled/
    47  sudo nginx -t
    48  sudo systemctl restart nginx
    49  history
+   Every time you pull any changes from your remote repo, you'll need to restart the app service with:
+
+sudo systemctl restart app
+If you make any changes to the Nginx sites-enabled file, you'll need to restart Nginx with:
+
+sudo systemctl restart nginx
 ```
