@@ -58,6 +58,7 @@ https://www.youtube.com/watch?v=K7g4D4sdBEQ
    35  sudo apt install nginx
    36  sudo ufw app list
    37  sudo ufw allow 'Nginx HTTP'
+   sudo ufw allow 'Nginx HTTPS'
    38  sudo ufw status
    39  sudo systemctl status nginx
    40  sudo nano /etc/systemd/system/app.service
@@ -102,6 +103,19 @@ If you make any changes to the Nginx sites-enabled file, you'll need to restart 
 sudo systemctl restart nginx
 ```
 
+https://vlemon.com/BLOG/Google-Cloud-Platform/install-ssl-certificate-on-nginx-web-server-on-ubuntu
+SSL certificate Settings
+```
+sudo apt-get update
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:certbot/certbot
+sudo apt-get update
+sudo apt-get install python-certbot-nginx 
+
+sudo certbot --nginx
+
+sudo certbot renew --dry-run
+```
 https://www.youtube.com/watch?v=QUp9XYL7E5o
 
 https://vlemon.com/BLOG/Google-Cloud-Platform/install-ssl-certificate-on-nginx-web-server-on-ubuntu
