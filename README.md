@@ -101,3 +101,13 @@ If you make any changes to the Nginx sites-enabled file, you'll need to restart 
 
 sudo systemctl restart nginx
 ```
+
+https://www.youtube.com/watch?v=QUp9XYL7E5o
+
+https://vlemon.com/BLOG/Google-Cloud-Platform/install-ssl-certificate-on-nginx-web-server-on-ubuntu
+
+https://www.youtube.com/watch?v=245ZJLm1AV4
+
+https://www.youtube.com/watch?v=2yaq-0C-cmU
+
+https://www.youtube.com/watch?v=sTDVsMUegL8
